@@ -10,3 +10,4 @@ resource "aws_iam_user" "IAMUser" {
 }
 rubilana.net
 rubilana.net
+rubilana.exam
